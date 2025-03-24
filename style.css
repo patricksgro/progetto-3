@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+}
+
+#top {
+    display: flex;
+    background-color: whitesmoke;
+}
+
+#logo {
+    width: 95%;
+}
+
+.logoimg {
+    padding-left: 150px;
+}
+
+#usefull {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-right: 280px;
+}
+
+div#usefull button {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.primi {
+    border: none;
+    background-color: whitesmoke;
+}
+
+.membership {
+    padding: 5px;
+    border-radius: 25px;
+}
+
+.T {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+#follow {
+    padding-top: 50px;
+    padding-bottom: 12px;
+    border-bottom: solid 1px rgb(199, 196, 196);
+    width: 76%;
+}
+
+#follow a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding-right: 15px;
+    text-transform: uppercase;
+}
+
+#content {
+    width: 65%;
+}
+
+#mainsection {
+    display: flex;
+}
+
+
+
+#undermain {
+    padding-top: 30px;
+}
+
+.firstp {
+    display: inline;
+    
+}
+
+.save {
+    margin-left: 130px;
+}
+
+.imgtext {
+    display: inline;
+}
+
+.imgtext img {
+    padding: 15px;
+
+}
+
+#second {
+    margin-top: 50px;
+}
+
+#supnav {
+    width: 35%;
+    border-left: solid 1px gray;
+}
+
+.priamo {
+    display: flex;
+    border-bottom: solid 1px grey;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.space{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: normal;
+}
+
+.btn {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 25px;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
